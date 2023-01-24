@@ -1,0 +1,4 @@
+deepgram-sdk
+requests
+youtube_dl
+ffmpeg-python
